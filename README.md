@@ -6,7 +6,7 @@
  
  ## Демонстрация
  
- *   [Ссылка]([None](https://youtu.be/uB31zTn7pxQ))
+ *   [Ссылка]([Nonehttps://youtu.be/uB31zTn7pxQ])
  
  ## Функциональность
  
